@@ -1,0 +1,109 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar {
+  width: 0;
+  /* Remove scrollbar space */
+  background: transparent;
+  /* Optional: just make scrollbar invisible */
+}
+
+/* Optional: show position indicator in red */
+::-webkit-scrollbar-thumb {
+  background: transparent;
+}
+:root {
+  overflow-x: hidden;
+}
+.drawn_light_1 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: -100;
+  background: radial-gradient(
+    40.45% 40.45% at 50% 46.16%,
+    rgba(43, 43, 43, 0.9) 3.12%,
+    rgba(57, 59, 68, 0) 100%
+  );
+  filter: blur(100px);
+}
+
+.drawn_light_2 {
+  /* Ellipse 5 */
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 40%;
+  top: 100%;
+  z-index: -10;
+  /* Accent/Gradient/Background */
+  background: radial-gradient(
+    40.45% 40.45% at 50% 46.16%,
+    rgba(1, 9, 80, 0.9) 3.12%,
+    rgba(14, 17, 32, 0) 100%
+  );
+  filter: blur(12px);
+}
+
+.group_star {
+  position: absolute;
+  z-index: -10;
+  width: 124px;
+  height: 240px;
+  left: 73px;
+  top: 215.65px;
+  opacity: 0.4;
+  transform: rotate(-44.33deg);
+}
+
+.vector_1 {
+  position: absolute;
+
+  z-index: -10;
+  width: 116px;
+  height: 234.5px;
+  left: 77.26px;
+  top: 214.28px;
+
+  border: 1px solid #5c6bb8;
+  transform: rotate(-44.33deg);
+}
+
+.vector_2 {
+  
+  position: absolute;
+  z-index: -10;
+  width: 8px;
+  height: 8px;
+  left: 155.98px;
+  top: 134.59px;
+
+  background: #1e68f6;
+  transform: rotate(-44.33deg);
+}
+.vector_3 {
+  position: absolute;
+  width: 8px;
+  z-index: -10;
+  height: 8px;
+  left: 270.88px;
+  top: 346.67px;
+
+  background: #1e68f6;
+  transform: rotate(-44.33deg);
+}
+.vector_4 {
+  position: absolute;
+  width: 8px;
+  z-index: -10;
+  height: 8px;
+  left: 183.4px;
+  top: 328.67px;
+  border: 1px solid #5C6BB8;
+
+  background: #1e68f6;
+  transform: rotate(-44.33deg);
+}
+
+

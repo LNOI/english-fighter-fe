@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://hygentrade.com
+
+# Sitemaps
+Sitemap: https://hygentrade.com/sitemap.xml

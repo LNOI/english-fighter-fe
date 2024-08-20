@@ -1,0 +1,114 @@
+{
+  "Manifest": {
+    "name": "Hygen Trade"
+  },
+  "NotFoundPage": {
+    "title": "Trang không tồn tại",
+    "description": "Vui lòng kiểm tra kỹ thanh địa chỉ của trình duyệt hoặc sử dụng điều hướng để đi tới một trang đã biết."
+  },
+  "Index": {
+    "title": "Xin chào!"
+  },
+  "Home": {
+    "banner_1": {
+    "title": "Giao dịch Chính xác",
+    "desc": "Bot của chúng tôi sử dụng phân tích kỹ thuật nâng cao (SMC, ICT, Price Action) để đưa ra tín hiệu giao dịch chính xác.",
+    "btn_name": "Kiểm tra Lịch sử Giao dịch Ngay",
+    "btn_href": "/backtesting"
+  },
+  "banner_2": {
+    "title": "Kiểm tra và Tối ưu Hóa Chiến Lược",
+    "desc": "Hoàn thiện chiến lược giao dịch của bạn với công cụ kiểm tra lịch sử giao dịch mạnh mẽ của chúng tôi.",
+    "btn_name": "Kiểm tra Lịch sử Giao dịch Ngay",
+    "btn_href": "/backtesting"
+  },
+  "banner_3": {
+    "title": "Giao dịch Thông minh, Tiết Kiệm Công sức",
+    "desc": "Để bot giao dịch của chúng tôi làm việc thay bạn. Tối đa hóa lợi nhuận, giảm thiểu rủi ro.",
+    "btn_name": "Kiểm tra Lịch sử Giao dịch Ngay",
+    "btn_href": "/backtesting"
+  }     
+  },
+  "Pricing": {
+    "Try": {
+      "title": "Thử nghiệm",
+      "description": "Bao gồm các chức năng cơ bản cho khách hàng thử nghiệm.",
+      "price": "25.000 VNĐ",
+      "schedule": "tháng",
+      "price_original": "99.000 VNĐ",
+      "features": {
+        "1": "100+ chỉ báo",
+        "2": "Giới hạn 1 lần kiểm tra chiến lược trên 1 ngày",
+        "3": "Giới hạn 1 chiến lược trên 1 ngày",
+        "4": "Bot Telegram, Discord",
+        "5": "Chạy chiến lược trong môi trường ảo với dữ liệu thật",
+        "6": "Tự động giao dịch",
+        "7": "Tối ưu hóa chiến lược"
+      },
+      "button": "Đăng kí"
+    },
+    "BackTesting": {
+      "tag": "Phổ biến",
+      "title": "Backtesting",
+      "description": "Gói đăng kí phù hợp kiểm tra chiến lược của bạn.",
+      "price": "499.000 VNĐ",
+      "schedule": "tháng",
+      "price_original": "599.000 VNĐ",
+      "features": {
+        "1": "100+ chỉ báo",
+        "2": "Giới hạn 12 lần kiểm tra chiến lược trên 1 ngày",
+        "3": "Không giới hạn tạo chiến lược ",
+        "4": "Bot Telegram, Discord",
+        "5": "Chạy chiến lược trong môi trường ảo với dữ liệu thật",
+        "6": "Tự động giao dịch",
+        "7": "Gợi ý điều chỉnh thông số"
+      },
+      "button": "Đăng kí"
+    },
+    "BotTrading": {
+      "title": "Bot Trading",
+      "description": "Phù hợp mọi người muốn tạo 1 bot tự động giao dịch.",
+      "price": "2.999.000 VNĐ",
+      "schedule": "tháng",
+      "price_original": "5.999.000 VND",
+      "features": {
+        "1": "100+ chỉ báo",
+        "2": "Giới hạn 12 lần kiểm tra chiến lược trên 1 ngày",
+        "3": "Không giới hạn tạo chiến lược ",
+        "4": "Bot Telegram, Discord",
+        "5": "Chạy chiến lược trong môi trường ảo với dữ liệu thật",
+        "6": "Tự động giao dịch",
+        "7": "Gợi ý điều chỉnh thông số"
+      },
+      "button": "Đăng kí"
+    }
+  },
+  "Header": {
+    "backtesting": "Thử nghiệm",
+    "strategies": "Chiến lược",
+    "config": "Cấu hình",
+    "pricing": "Gói đăng kí"
+  },
+  "Footer": {
+    "description": "HygenTrade: Nâng cao trải nghiệm giao dịch tự động tiền điện tử của bạn bằng sức mạnh của các chiến lược kiểm tra ngược.",
+    "quick_link": "Liên kết nhanh.",
+    "company": "Công ty",
+    "config_backtesting": "Cấu hình Kiểm tra ngược",
+    "subscribe_plan": "Đăng ký gói",
+    "tutorial": "Hướng dẫn",
+    "term": "Điều khoản sử dụng",
+    "privacy": "Chính sách bảo mật",
+    "disclaimer": "Tuyên bố miễn trừ trách nhiệm",
+    "blogs": "Blog",
+    "about": "Giới thiệu",
+    "contact": "Liên hệ",
+    "email_box": "Đăng kí để nhập cập nhật mới",
+    "email_desc": "Chúng tôi sẽ thông báo cập nhật mới nhất tới email của bạn."
+  },
+  "Payment": {
+    "title": "Thanh toán",
+    "description": "Chúng tôi chấp nhận thanh toán thông qua Paypal và Crypto",
+    "total": "Tổng",
+    "total_description": "Hóa đơn và biên lai có sẵn để công ty hoàn trả dễ dàng"
+  }
+}

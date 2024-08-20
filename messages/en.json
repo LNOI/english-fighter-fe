@@ -1,0 +1,114 @@
+{
+  "Manifest": {
+    "name": "Manifest"
+  },
+  "NotFoundPage": {
+    "title": "Page Not Found",
+    "description": "Please double-check the browser address bar or use the navigation to go to a known page."
+  },
+  "Index": {
+    "title": "Hello world!"
+  },
+  "Home": {
+    "banner_1": {
+      "title": "Trade with Precision",
+      "desc": "Our bot uses advanced technical analysis (SMC, ICT, Price Action) for accurate trading signals.",
+      "btn_name": "Backtesting Now",
+      "btn_href": "/backtesting"
+    },
+    "banner_2": {
+      "title": "Backtest Your Way to Profits",
+      "desc": "Refine your trading strategy with our powerful backtesting tool.",
+      "btn_name": "Backtesting Now",
+      "btn_href": "/backtesting"
+    },
+    "banner_3": {
+      "title": "Trade Smarter, Not Harder",
+      "desc": "Let our trading bot do the work for you. Maximize profits, minimize risks.",
+      "btn_name": "Backtesting Now",
+      "btn_href": "/backtesting"
+    }
+  },
+  "Pricing": {
+    "Try": {
+      "title": "Trial",
+      "description": "Includes basic features for trial users.",
+      "price": "$1 USD",
+      "price_original": "$3.99",
+      "schedule" : "month",
+      "features": {
+        "1": "100+ indicators",
+        "2": "Limited to 1 strategy check per day",
+        "3": "Limited to 1 strategy per day",
+        "4": "Telegram, Discord bot",
+        "5": "Run strategies in a virtual environment with real data",
+        "6": "Automated trading",
+        "7": "Strategy optimization"
+      },
+      "button": "subscription"
+    },
+    "BackTesting": {
+      "tag": "Most Popular",
+      "title": "Backtesting",
+      "schedule" : "month",
+      "description": "A subscription package suitable for testing your strategies.",
+      "price": "$19.99 USD",
+      "price_original": "$29.99 USD",
+      "features": {
+        "1": "100+ indicators",
+        "2": "Limited to 12 strategy checks per day",
+        "3": "Unlimited strategy creation",
+        "4": "Telegram, Discord bot",
+        "5": "Run strategies in a virtual environment with real data",
+        "6": "Automated trading",
+        "7": "Parameter adjustment suggestions"
+      },
+      "button": "subscription"
+    },
+    "BotTrading": {
+      "title": "Bot Trading",
+      "description": "Suitable for everyone who wants to create an automated trading bot.",
+      "price": "$199.99 USD",
+      "schedule" : "month",
+      "price_original": "$299.99 USD",
+      "features": {
+        "1": "100+ indicators",
+        "2": "Limited to 12 strategy checks per day",
+        "3": "Unlimited strategy creation",
+        "4": "Telegram, Discord bot",
+        "5": "Run strategies in a virtual environment with real data",
+        "6": "Automated trading",
+        "7": "Parameter adjustment suggestions"
+      },
+      "button": "subscription"
+    }
+  },
+  "Header": {
+    "backtesting": "Backtesting",
+    "strategies": "Strategies",
+    "config": "Config",
+    "pricing": "Pricing"
+  },
+  "Footer": {
+    "description": "HygenTrade: Leverage the power of backtesting strategies to optimize your cryptocurrency auto-trading experience.",
+    "quick_link": "Quick Links.",
+    "company": "Company",
+    "config_backtesting": "Config BackTesting",
+    "subscribe_plan": "Subscribe Plan",
+    "tutorial": "Tutorial",
+    "term": "Terms of service",
+    "privacy": "Privacy Policy",
+    "disclaimer": "Disclaimer",
+    "blogs": "Blogs",
+    "about": "About us",
+    "contact": "Contact",
+    "email_box": "Submit to update",
+    "email_desc": "Subscribe to get a update and notify out system and product"
+  },
+  "Payment" : {
+    "title" : "Payment",
+    "description" : "We accept Paypal and Crypto payment" ,
+    "total" : "Total",
+    "total_description" : "Invoices and receipts available for easy company reimbursement"
+  }
+}
